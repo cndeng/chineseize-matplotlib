@@ -9,7 +9,7 @@ with open(path.join(path.abspath(path.dirname(__file__)), 'README.md'), encoding
 install_requires = ['matplotlib']
 
 setup(name='chineseize-matplotlib',
-      version='1.1.3',
+      version='1.0',
       description='自动设置matplotlib的中文字体',
       author='cndeng',
       author_email='cndeng@foxmail.com',
