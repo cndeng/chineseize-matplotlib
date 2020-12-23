@@ -5,8 +5,8 @@ from matplotlib import font_manager
 from distutils.version import LooseVersion
 
 FONTS_DIR = 'fonts'
-FONT_NAME = "IPAexGothic"
-FONT_TTF = 'ipaexg.ttf'
+FONT_NAME = "SimHei"
+FONT_TTF = 'simhei.ttf'
 
 
 def chineseize():
