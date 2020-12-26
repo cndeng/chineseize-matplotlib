@@ -1,5 +1,7 @@
 
 # chineseize-matplotlib
+
+## description
 自动设置 matplotlib 中文字体
 
 ## 利用方法
